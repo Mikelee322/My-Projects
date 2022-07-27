@@ -7,4 +7,5 @@ Join me on my journey as I complete the OSSU self taught Degree in Computer Scie
 ![image](https://user-images.githubusercontent.com/81544381/176059894-ea921e6f-2893-45cb-8773-579259600349.png)
 
 **Introduction to programming**
+
 Python for everybody - Complete 
