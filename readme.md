@@ -9,9 +9,7 @@ Join me on my journey as I complete a self taught Degree in Computer Science usi
 
 
 **Introduction to programming**
-
 Python for everybody - Complete 
 
-Introduction to Computer Science
-
+**Introduction to Computer Science**
 Introduction to Computer Science and Programming in Python
